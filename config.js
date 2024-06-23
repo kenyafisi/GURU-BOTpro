@@ -29,14 +29,7 @@ global.allowed = ['254704897825']
 global.keysZens = ['6jzi5Hum']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
-  '29d4b59a4aa687ca',
-  '5LTV57azwaid7dXfz5fzJu',
-  'cb15ed422c71a2fb',
-  '5bd33b276d41d6b4',
-  'HIRO',
-  'kurrxd09',
-  'ebb6251cc00f9c63',
-]
+  'o2NNcmAq7VQzT3XE1yrryKYF']
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
