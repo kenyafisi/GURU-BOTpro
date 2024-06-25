@@ -62,7 +62,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'nicholasBot' process.env.BOTNAME
+global.botname = '' process.env.BOTNAME
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
@@ -82,7 +82,7 @@ global.done = '✅'
 global.error = '❌'
 global.xmoji = '🔥'
 
-global.multiplier = 69
+global.multiplier = '69'
 global.maxwarn = '3'
 
 let file = fileURLToPath(import.meta.url)
