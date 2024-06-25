@@ -23,10 +23,10 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['254704897825']
-global.prems = ['254704897825']
-global.allowed = ['254704897825']
-global.keysZens = ['6jzi5Hum']
+global.mods = '254704897825'
+global.prems = '254704897825'
+global.allowed = '254704897825'
+global.keysZens = '6jzi5Hum'
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
   'o2NNcmAq7VQzT3XE1yrryKYF']
@@ -62,7 +62,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'NicholasBot' process.env.BOTNAME
+global.botname = 'NicholasBot' process.env.BOTNAME || "nicholasBot"
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
