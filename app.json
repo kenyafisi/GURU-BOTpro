@@ -10,22 +10,22 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "917605902011;GURU;6281255369012;Ash"
+      "value": "254704897825;nicholasBot;"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ"
+      "value": "gurubotpro"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "postgresql://my_wabot_user:NuzPLWFy6Uy9hZVkVkVuIjEg6hjJSaQT@dpg-cpq83blds78s73cgir2g-a/my_wabot"
     },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "0TMdvPrN"
     },
     "MODE": {
       "description": "mode public or private",
@@ -40,12 +40,12 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "https://guru-botpro.onrender.com"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "gurubotpro"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
