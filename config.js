@@ -62,7 +62,8 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = '' process.env.BOTNAME
+global.botname = ''
+    process.env.BOTNAME || "nicholasBot"
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
